@@ -1,0 +1,6 @@
+/bootstrap/ssr
+/node_modules
+/public/build/*
+/storage/*
+/vendor
+*tar.gz
